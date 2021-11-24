@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name="currencies">
+        <item>KWD - Kuwaiti Dinar</item>
+        <item>BHD - Bahraini Dinar</item>
+        <item>OMR - Omani Riyal</item>
+        <item>JOD - Jordanian Dinar</item>
+        <item>GBP - Pound</item>
+        <item>EUR - Euro</item>
+        <item>USD - US Dollar</item>
+        <item>TRY - Turkish Lira</item>
+        <item>QAR - Qatari Rial</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>AUD - Australian Dollar</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>SAR - Saudi Riyal</item>
+        <item>NPR - Nepalese Rupee</item>
+    </string-array>
+</resources>
